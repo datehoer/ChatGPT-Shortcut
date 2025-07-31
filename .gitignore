@@ -21,3 +21,6 @@ yarn-error.log*
 CHANGELOG.md
 
 /extension
+
+.yarnrc.yml
+.yarn/**

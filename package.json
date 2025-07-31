@@ -1,8 +1,8 @@
 {
   "name": "chatgpt-shortcut",
   "version": "3.5.0",
-  "private": false,
   "license": "MIT",
+  "packageManager": "yarn@4.9.1",
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
